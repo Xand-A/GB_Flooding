@@ -1,5 +1,7 @@
 # GB_Flooding
 
+### *Note that as of last run (12/07/24) - there were no flood warnings in GB*
+
 ## What
 Activate 'flood warnings' in GB
 
@@ -14,7 +16,6 @@ Repo tracking activate flood warnings of GB nations from each respective EA's pr
 ## How
 
 Using API calls from EA and NRW to extract flood warnings, SEPA provision is different so uses web scraping
-Data is converted and plotted on a folium map
 
 ## Next steps
 Add in points of interest which can be found within flooding zones
