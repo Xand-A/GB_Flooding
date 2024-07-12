@@ -1,0 +1,15 @@
+beautifulsoup4
+branca
+folium
+geopandas
+haversine
+lxml
+matplotlib
+numpy
+pandas
+pyproj
+python-dotenv
+python-dateutil
+Requests
+Shapely
+
