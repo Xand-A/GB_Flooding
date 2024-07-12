@@ -5,10 +5,9 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 
-from .azure_setup import (
-    NRW_API_key,
-)
+NRW_API_key = os.environ.get('nrw_key')
 
 sub_dir = "cache"
 
